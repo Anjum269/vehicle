@@ -7,7 +7,7 @@ def vehicle_details(number, owner_name, vehicle_type,year_of_manufacture):
     )
     return result
 if __name__=="__main__":
-  number = "KA25P3808   
+  number = "KA25P3808 "  
   owner_name = "Anjum"
   vehicle_type = "Car"
   year_of_manufacture = "2025"
